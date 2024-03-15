@@ -18,6 +18,7 @@ import AppKit
 typealias Application = NSApplication
 #endif
 
+@available(iOS 13.0, *)
 @available(iOSApplicationExtension, unavailable)
 @available(watchOSApplicationExtension, unavailable)
 @available(tvOSApplicationExtension, unavailable)
